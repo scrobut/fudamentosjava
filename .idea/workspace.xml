@@ -5,9 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="58b83825-526d-403b-a334-7683692f7f82" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/fundamentos/controle/Else.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/fundamentos/controle/If.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/fundamentos/operadores/Calculadora.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fundamentos/controle/DesafioFor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fundamentos/controle/DesafioWhile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fundamentos/controle/DiasSemanas.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fundamentos/controle/DoWhile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fundamentos/controle/For.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fundamentos/controle/ForDecrecente.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fundamentos/controle/IfElseIf.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fundamentos/controle/SwitchNext.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fundamentos/controle/SwitchSemBreak.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fundamentos/controle/While.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fundamentos/controle/While2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -34,35 +42,22 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "settings.editor.selected.configurable": "preferences.lookFeel"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;editing.templates&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Application.Else">
-    <configuration name="Calculadora" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="fundamentos.operadores.Calculadora" />
-      <module name="coder" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="fundamentos.operadores.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Else" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="fundamentos.controle.Else" />
+}</component>
+  <component name="RunManager" selected="Application.SwitchNext">
+    <configuration name="DesafioFor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="fundamentos.controle.DesafioFor" />
       <module name="coder" />
       <extension name="coverage">
         <pattern>
@@ -74,8 +69,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="If" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="fundamentos.controle.If" />
+    <configuration name="DesafioWhile" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="fundamentos.controle.DesafioWhile" />
       <module name="coder" />
       <extension name="coverage">
         <pattern>
@@ -87,12 +82,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Relacionais" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="fundamentos.operadores.Relacionais" />
+    <configuration name="ForDecrecente" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="fundamentos.controle.ForDecrecente" />
       <module name="coder" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="fundamentos.operadores.*" />
+          <option name="PATTERN" value="fundamentos.controle.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -100,12 +95,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Unarios" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="fundamentos.operadores.Unarios" />
+    <configuration name="SwitchNext" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="fundamentos.controle.SwitchNext" />
       <module name="coder" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="fundamentos.operadores.*" />
+          <option name="PATTERN" value="fundamentos.controle.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SwitchSemBreak" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="fundamentos.controle.SwitchSemBreak" />
+      <module name="coder" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="fundamentos.controle.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -115,11 +123,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Else" />
-        <item itemvalue="Application.If" />
-        <item itemvalue="Application.Calculadora" />
-        <item itemvalue="Application.Unarios" />
-        <item itemvalue="Application.Relacionais" />
+        <item itemvalue="Application.SwitchNext" />
+        <item itemvalue="Application.SwitchSemBreak" />
+        <item itemvalue="Application.DesafioFor" />
+        <item itemvalue="Application.ForDecrecente" />
+        <item itemvalue="Application.DesafioWhile" />
       </list>
     </recent_temporary>
   </component>
@@ -135,7 +143,10 @@
       <workItem from="1652828793941" duration="1148000" />
       <workItem from="1652887852441" duration="1422000" />
       <workItem from="1653264059401" duration="2962000" />
-      <workItem from="1653757964802" duration="9313000" />
+      <workItem from="1653757964802" duration="15013000" />
+      <workItem from="1654099822305" duration="1525000" />
+      <workItem from="1654179800503" duration="241000" />
+      <workItem from="1654216960475" duration="3323000" />
     </task>
     <task id="LOCAL-00001" summary="fundamentos java">
       <created>1653768402204</created>
@@ -144,7 +155,14 @@
       <option name="project" value="LOCAL" />
       <updated>1653768402204</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="fundamentos java atual">
+      <created>1653775706577</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1653775706577</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -163,6 +181,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="fundamentos java" />
-    <option name="LAST_COMMIT_MESSAGE" value="fundamentos java" />
+    <MESSAGE value="fundamentos java atual" />
+    <option name="LAST_COMMIT_MESSAGE" value="fundamentos java atual" />
   </component>
 </project>
