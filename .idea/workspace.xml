@@ -5,17 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="58b83825-526d-403b-a334-7683692f7f82" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/fundamentos/controle/DesafioFor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/fundamentos/controle/DesafioWhile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/fundamentos/controle/DiasSemanas.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/fundamentos/controle/DoWhile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/fundamentos/controle/For.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/fundamentos/controle/ForDecrecente.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/fundamentos/controle/IfElseIf.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/fundamentos/controle/SwitchNext.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/fundamentos/controle/SwitchSemBreak.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/fundamentos/controle/While.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/fundamentos/controle/While2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Classes/Data.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Classes/DataTeste.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Classes/Produto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Classes/ProdutoTeste.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -55,7 +48,20 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;editing.templates&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.SwitchNext">
+  <component name="RunManager" selected="Application.DataTeste">
+    <configuration name="DataTeste" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Classes.DataTeste" />
+      <module name="coder" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Classes.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="DesafioFor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="fundamentos.controle.DesafioFor" />
       <module name="coder" />
@@ -69,25 +75,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DesafioWhile" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="fundamentos.controle.DesafioWhile" />
+    <configuration name="ProdutoTeste" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Classes.ProdutoTeste" />
       <module name="coder" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="fundamentos.controle.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ForDecrecente" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="fundamentos.controle.ForDecrecente" />
-      <module name="coder" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="fundamentos.controle.*" />
+          <option name="PATTERN" value="Classes.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -123,11 +116,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.DataTeste" />
+        <item itemvalue="Application.ProdutoTeste" />
         <item itemvalue="Application.SwitchNext" />
         <item itemvalue="Application.SwitchSemBreak" />
         <item itemvalue="Application.DesafioFor" />
-        <item itemvalue="Application.ForDecrecente" />
-        <item itemvalue="Application.DesafioWhile" />
       </list>
     </recent_temporary>
   </component>
@@ -146,7 +139,9 @@
       <workItem from="1653757964802" duration="15013000" />
       <workItem from="1654099822305" duration="1525000" />
       <workItem from="1654179800503" duration="241000" />
-      <workItem from="1654216960475" duration="3323000" />
+      <workItem from="1654216960475" duration="3607000" />
+      <workItem from="1654716284346" duration="2306000" />
+      <workItem from="1654735548831" duration="6856000" />
     </task>
     <task id="LOCAL-00001" summary="fundamentos java">
       <created>1653768402204</created>
@@ -162,7 +157,14 @@
       <option name="project" value="LOCAL" />
       <updated>1653775706577</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="fundamentos java atualização">
+      <created>1654221905076</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1654221905076</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -182,6 +184,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="fundamentos java" />
     <MESSAGE value="fundamentos java atual" />
-    <option name="LAST_COMMIT_MESSAGE" value="fundamentos java atual" />
+    <MESSAGE value="fundamentos java atualização" />
+    <option name="LAST_COMMIT_MESSAGE" value="fundamentos java atualização" />
   </component>
 </project>
