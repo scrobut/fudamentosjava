@@ -5,11 +5,24 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="58b83825-526d-403b-a334-7683692f7f82" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Classes/AreaCirc.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Classes/AreaCircTeste.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Classes/DescontoVinteECinco.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Classes/DescontoVinteECincoTeste.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Classes/ValorXreferencia.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Classes/Comida.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Classes/Equals.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Classes/Jantar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Classes/Pessoa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Classes/Usuario.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Classes/ValorNulo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/array/DesafioArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/array/Exercicios.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/array/Foreach.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/array/idades.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/array/matriz.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/colecoes/ConjuntoBaguncado.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/colecoes/ConjuntoComportado.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/colecoes/ListaUsers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/colecoes/Pilhas.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/colecoes/Queues.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/colecoes/Usuarios.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/colecoes/maaps.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -26,6 +39,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/Classes/ValorXreferencia.java" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -46,16 +62,16 @@
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;editing.templates&quot;
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.ValorXreferencia">
-    <configuration name="AreaCircTeste" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Classes.AreaCircTeste" />
+  <component name="RunManager" selected="Application.maaps">
+    <configuration name="colecoes.ConjuntoComportado" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="colecoes.ConjuntoComportado" />
       <module name="coder" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Classes.*" />
+          <option name="PATTERN" value="colecoes.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -63,12 +79,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CarroTeste" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Classes.CarroTeste" />
+    <configuration name="colecoes.ListaUsers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="colecoes.ListaUsers" />
       <module name="coder" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Classes.*" />
+          <option name="PATTERN" value="colecoes.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -76,12 +92,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DataTeste" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Classes.DataTeste" />
+    <configuration name="colecoes.Pilhas" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="colecoes.Pilhas" />
       <module name="coder" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Classes.*" />
+          <option name="PATTERN" value="colecoes.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -89,12 +105,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DescontoVinteECincoTeste" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Classes.DescontoVinteECincoTeste" />
+    <configuration name="colecoes.Queues" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="colecoes.Queues" />
       <module name="coder" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Classes.*" />
+          <option name="PATTERN" value="colecoes.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -102,12 +118,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ValorXreferencia" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Classes.ValorXreferencia" />
+    <configuration name="maaps" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="colecoes.maaps" />
       <module name="coder" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Classes.*" />
+          <option name="PATTERN" value="colecoes.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -117,11 +133,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ValorXreferencia" />
-        <item itemvalue="Application.DescontoVinteECincoTeste" />
-        <item itemvalue="Application.AreaCircTeste" />
-        <item itemvalue="Application.CarroTeste" />
-        <item itemvalue="Application.DataTeste" />
+        <item itemvalue="Application.maaps" />
+        <item itemvalue="Application.colecoes.Pilhas" />
+        <item itemvalue="Application.colecoes.Queues" />
+        <item itemvalue="Application.colecoes.ListaUsers" />
+        <item itemvalue="Application.colecoes.ConjuntoComportado" />
       </list>
     </recent_temporary>
   </component>
@@ -148,6 +164,9 @@
       <workItem from="1654885502084" duration="678000" />
       <workItem from="1654981882534" duration="2873000" />
       <workItem from="1655131293769" duration="2310000" />
+      <workItem from="1655210408162" duration="3847000" />
+      <workItem from="1655294659661" duration="8948000" />
+      <workItem from="1655416519154" duration="14795000" />
     </task>
     <task id="LOCAL-00001" summary="fundamentos java">
       <created>1653768402204</created>
@@ -184,7 +203,14 @@
       <option name="project" value="LOCAL" />
       <updated>1654872024685</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="fundamentos java atualização">
+      <created>1655210637311</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1655210637311</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
