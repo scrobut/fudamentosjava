@@ -5,24 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="58b83825-526d-403b-a334-7683692f7f82" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Classes/Comida.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Classes/Equals.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Classes/Jantar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Classes/Pessoa.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Classes/Usuario.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Classes/ValorNulo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/array/DesafioArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/array/Exercicios.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/array/Foreach.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/array/idades.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/array/matriz.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/colecoes/ConjuntoBaguncado.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/colecoes/ConjuntoComportado.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/colecoes/ListaUsers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/colecoes/Pilhas.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/colecoes/Queues.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/colecoes/Usuarios.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/colecoes/maaps.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/objetos/Carro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/objetos/CarroTeste.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/objetos/Motor.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -65,13 +50,13 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.maaps">
-    <configuration name="colecoes.ConjuntoComportado" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="colecoes.ConjuntoComportado" />
+  <component name="RunManager" selected="Application.CarroTeste">
+    <configuration name="CarroTeste" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="objetos.CarroTeste" />
       <module name="coder" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="colecoes.*" />
+          <option name="PATTERN" value="objetos.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -133,11 +118,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CarroTeste" />
         <item itemvalue="Application.maaps" />
         <item itemvalue="Application.colecoes.Pilhas" />
         <item itemvalue="Application.colecoes.Queues" />
         <item itemvalue="Application.colecoes.ListaUsers" />
-        <item itemvalue="Application.colecoes.ConjuntoComportado" />
       </list>
     </recent_temporary>
   </component>
@@ -166,7 +151,8 @@
       <workItem from="1655131293769" duration="2310000" />
       <workItem from="1655210408162" duration="3847000" />
       <workItem from="1655294659661" duration="8948000" />
-      <workItem from="1655416519154" duration="14795000" />
+      <workItem from="1655416519154" duration="15433000" />
+      <workItem from="1655522008741" duration="512000" />
     </task>
     <task id="LOCAL-00001" summary="fundamentos java">
       <created>1653768402204</created>
@@ -210,7 +196,14 @@
       <option name="project" value="LOCAL" />
       <updated>1655210637311</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="fundamentos java atualização">
+      <created>1655497984327</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1655497984327</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
