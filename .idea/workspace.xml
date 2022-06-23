@@ -5,9 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="58b83825-526d-403b-a334-7683692f7f82" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/objetos/Carro.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/objetos/CarroTeste.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/objetos/Motor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/desafioComposicao/Cliente.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/desafioComposicao/Compra.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/desafioComposicao/DesafioTeste.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/desafioComposicao/Item.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/desafioComposicao/Produto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/objetos/Aluno.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/objetos/Compra.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/objetos/CompraTeste.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/objetos/Curso.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/objetos/CursoTeste.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/objetos/Itens.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -23,6 +31,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="Diogo" />
+      </list>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
@@ -50,7 +63,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.CarroTeste">
+  <component name="RunManager" selected="Application.DesafioTeste">
     <configuration name="CarroTeste" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="objetos.CarroTeste" />
       <module name="coder" />
@@ -64,12 +77,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="colecoes.ListaUsers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="colecoes.ListaUsers" />
+    <configuration name="CompraTeste" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="objetos.CompraTeste" />
       <module name="coder" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="colecoes.*" />
+          <option name="PATTERN" value="objetos.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -77,12 +90,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="colecoes.Pilhas" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="colecoes.Pilhas" />
+    <configuration name="CursoTeste" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="objetos.CursoTeste" />
       <module name="coder" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="colecoes.*" />
+          <option name="PATTERN" value="objetos.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -90,12 +103,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="colecoes.Queues" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="colecoes.Queues" />
+    <configuration name="DesafioTeste" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="desafioComposicao.DesafioTeste" />
       <module name="coder" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="colecoes.*" />
+          <option name="PATTERN" value="desafioComposicao.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -118,11 +131,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.DesafioTeste" />
+        <item itemvalue="Application.CursoTeste" />
+        <item itemvalue="Application.CompraTeste" />
         <item itemvalue="Application.CarroTeste" />
         <item itemvalue="Application.maaps" />
-        <item itemvalue="Application.colecoes.Pilhas" />
-        <item itemvalue="Application.colecoes.Queues" />
-        <item itemvalue="Application.colecoes.ListaUsers" />
       </list>
     </recent_temporary>
   </component>
@@ -153,6 +166,9 @@
       <workItem from="1655294659661" duration="8948000" />
       <workItem from="1655416519154" duration="15433000" />
       <workItem from="1655522008741" duration="512000" />
+      <workItem from="1655522536286" duration="316000" />
+      <workItem from="1655587988202" duration="3121000" />
+      <workItem from="1655912733532" duration="4787000" />
     </task>
     <task id="LOCAL-00001" summary="fundamentos java">
       <created>1653768402204</created>
@@ -203,7 +219,14 @@
       <option name="project" value="LOCAL" />
       <updated>1655497984327</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="fundamentos java atualização">
+      <created>1655522851013</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1655522851013</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
