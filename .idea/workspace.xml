@@ -5,17 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="58b83825-526d-403b-a334-7683692f7f82" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/desafioComposicao/Cliente.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/desafioComposicao/Compra.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/desafioComposicao/DesafioTeste.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/desafioComposicao/Item.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/desafioComposicao/Produto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/objetos/Aluno.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/objetos/Compra.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/objetos/CompraTeste.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/objetos/Curso.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/objetos/CursoTeste.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/objetos/Itens.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/heranca/Boss.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/heranca/Direcao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/heranca/Heroi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/heranca/Jogador.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/heranca/JogoTeste.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/heranca/desafio/Carro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/heranca/desafio/Civic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/heranca/desafio/Ferrari.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/heranca/desafio/TesteDesafio.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -26,6 +24,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Enum" />
         <option value="Class" />
       </list>
     </option>
@@ -63,20 +62,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.DesafioTeste">
-    <configuration name="CarroTeste" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="objetos.CarroTeste" />
-      <module name="coder" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="objetos.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.TesteDesafio">
     <configuration name="CompraTeste" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="objetos.CompraTeste" />
       <module name="coder" />
@@ -116,12 +102,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="maaps" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="colecoes.maaps" />
+    <configuration name="TesteDesafio" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="heranca.desafio.TesteDesafio" />
       <module name="coder" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="colecoes.*" />
+          <option name="PATTERN" value="heranca.desafio.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="heranca.JogoTeste" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="heranca.JogoTeste" />
+      <module name="coder" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="heranca.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -131,11 +130,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TesteDesafio" />
+        <item itemvalue="Application.heranca.JogoTeste" />
         <item itemvalue="Application.DesafioTeste" />
         <item itemvalue="Application.CursoTeste" />
         <item itemvalue="Application.CompraTeste" />
-        <item itemvalue="Application.CarroTeste" />
-        <item itemvalue="Application.maaps" />
       </list>
     </recent_temporary>
   </component>
@@ -169,6 +168,8 @@
       <workItem from="1655522536286" duration="316000" />
       <workItem from="1655587988202" duration="3121000" />
       <workItem from="1655912733532" duration="4787000" />
+      <workItem from="1655994947076" duration="4534000" />
+      <workItem from="1656085181163" duration="3904000" />
     </task>
     <task id="LOCAL-00001" summary="fundamentos java">
       <created>1653768402204</created>
@@ -226,7 +227,14 @@
       <option name="project" value="LOCAL" />
       <updated>1655522851013</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="fundamentos java atualização">
+      <created>1655995083998</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1655995083998</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
