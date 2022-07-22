@@ -5,6 +5,10 @@ public class TesteDesafio {
         Ferrari fer = new Ferrari();
         fer.acelerar(fer);
         fer.Frear(fer);
+        fer.Frear(fer);
+        fer.Frear(fer);
+        fer.Frear(fer);
+
 
         Civic civ = new Civic();
         civ.acelerar(civ);

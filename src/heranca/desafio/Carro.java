@@ -22,7 +22,7 @@ public class Carro {
             velocidadeFre.velocidadeAtual -= 5;
             return true;
         }else
-            System.out.println("velovidade esta em zero");
+            System.out.println("velocidade esta em zero");
         return false;
 
     }

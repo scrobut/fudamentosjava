@@ -5,16 +5,43 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="58b83825-526d-403b-a334-7683692f7f82" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/heranca/Boss.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/heranca/Direcao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/heranca/Heroi.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/heranca/Jogador.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/heranca/JogoTeste.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/heranca/desafio/Carro.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/heranca/desafio/Civic.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/heranca/desafio/Ferrari.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/heranca/desafio/TesteDesafio.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/heranca/desafio/Esportivo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/heranca/encapsulamento/casaA/Ana.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/heranca/encapsulamento/casaA/Paulo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/heranca/encapsulamento/casaA/Pessoa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/heranca/encapsulamento/casaA/TestePessoa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/heranca/encapsulamento/casaA/casaB/Julia.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/heranca/encapsulamento/casaA/casaB/Pedro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lambdas/Calculo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lambdas/CalculoTeste.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lambdas/CalculoTesteDois.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lambdas/Func.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lambdas/PredicadoFunction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lambdas/Soma.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/polimorfismo/Arroz.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/polimorfismo/Comida.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/polimorfismo/Feijao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/polimorfismo/Jantar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/polimorfismo/Pessoa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/polimorfismo/Sorvete.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/streams/ChaMap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/streams/CreateMap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/streams/CreateStreams.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/streams/Filters.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/streams/FiltersReference.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/streams/ListObjects.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/streams/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/streams/Products.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/streams/Reduce.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/streams/TesteProduct.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/heranca/Boss.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/heranca/Boss.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/heranca/Heroi.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/heranca/Heroi.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/heranca/Jogador.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/heranca/Jogador.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/heranca/JogoTeste.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/heranca/JogoTeste.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/heranca/desafio/Carro.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/heranca/desafio/Carro.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/heranca/desafio/Ferrari.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/heranca/desafio/Ferrari.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/heranca/desafio/TesteDesafio.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/heranca/desafio/TesteDesafio.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,6 +52,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Enum" />
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -62,13 +90,13 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.TesteDesafio">
-    <configuration name="CompraTeste" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="objetos.CompraTeste" />
+  <component name="RunManager" selected="Application.Reduce">
+    <configuration name="ChaMap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="streams.ChaMap" />
       <module name="coder" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="objetos.*" />
+          <option name="PATTERN" value="streams.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -76,12 +104,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CursoTeste" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="objetos.CursoTeste" />
+    <configuration name="CreateMap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="streams.CreateMap" />
       <module name="coder" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="objetos.*" />
+          <option name="PATTERN" value="streams.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -89,12 +117,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DesafioTeste" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="desafioComposicao.DesafioTeste" />
+    <configuration name="Filters" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="streams.Filters" />
       <module name="coder" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="desafioComposicao.*" />
+          <option name="PATTERN" value="streams.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -102,12 +130,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TesteDesafio" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="heranca.desafio.TesteDesafio" />
+    <configuration name="Reduce" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="streams.Reduce" />
       <module name="coder" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="heranca.desafio.*" />
+          <option name="PATTERN" value="streams.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -115,12 +143,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="heranca.JogoTeste" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="heranca.JogoTeste" />
+    <configuration name="TesteProduct" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="streams.TesteProduct" />
       <module name="coder" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="heranca.*" />
+          <option name="PATTERN" value="streams.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -130,11 +158,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.TesteDesafio" />
-        <item itemvalue="Application.heranca.JogoTeste" />
-        <item itemvalue="Application.DesafioTeste" />
-        <item itemvalue="Application.CursoTeste" />
-        <item itemvalue="Application.CompraTeste" />
+        <item itemvalue="Application.Reduce" />
+        <item itemvalue="Application.TesteProduct" />
+        <item itemvalue="Application.ChaMap" />
+        <item itemvalue="Application.Filters" />
+        <item itemvalue="Application.CreateMap" />
       </list>
     </recent_temporary>
   </component>
@@ -169,7 +197,18 @@
       <workItem from="1655587988202" duration="3121000" />
       <workItem from="1655912733532" duration="4787000" />
       <workItem from="1655994947076" duration="4534000" />
-      <workItem from="1656085181163" duration="3904000" />
+      <workItem from="1656085181163" duration="3977000" />
+      <workItem from="1656285052077" duration="9058000" />
+      <workItem from="1656360796424" duration="1327000" />
+      <workItem from="1656421284098" duration="1613000" />
+      <workItem from="1657135168577" duration="410000" />
+      <workItem from="1657588335172" duration="2818000" />
+      <workItem from="1657845040177" duration="1542000" />
+      <workItem from="1658016494661" duration="8773000" />
+      <workItem from="1658087268554" duration="6113000" />
+      <workItem from="1658192058218" duration="5585000" />
+      <workItem from="1658283010584" duration="609000" />
+      <workItem from="1658435476456" duration="600000" />
     </task>
     <task id="LOCAL-00001" summary="fundamentos java">
       <created>1653768402204</created>
@@ -234,7 +273,14 @@
       <option name="project" value="LOCAL" />
       <updated>1655995083998</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="fundamentos java atualização">
+      <created>1656090113940</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1656090113940</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
